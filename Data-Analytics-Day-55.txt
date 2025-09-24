@@ -1,0 +1,57 @@
+Advanced Data Analytics Lessons
+
+🔹 Lesson 1: Data Storytelling & Insights
+========================================
+Summary:
+Raw analysis isn’t enough — insights must be communicated effectively. Use narratives, visuals, and clear takeaways to tell the story.
+
+Example: Instead of “Revenue grew 15%,” say → “Revenue grew 15%, mainly due to a 25% rise in festive season sales.”
+
+
+🔹 Lesson 2: Interactive Dashboards (Power BI / Tableau)
+====================================================
+Summary:
+Dashboards make data exploration easier for stakeholders.
+Filters & slicers
+Drill-down charts
+KPIs and alerts
+
+Example: A sales dashboard showing real-time revenue by region, product, and customer type.
+
+
+🔹 Lesson 3: Clustering with K-Means
+========================================
+Summary:
+Clustering = grouping similar data points without labels.
+
+Step 1: Choose k clusters
+Step 2: Assign data to nearest centroid
+Step 3: Recalculate centroids until stable
+
+Example: Segment customers into “Budget, Regular, Premium” categories based on spending.
+
+
+🔹 Lesson 4: Anomaly Detection
+=====================================
+Summary:
+Detect unusual patterns that may indicate fraud, errors, or critical events.
+Z-score method
+Isolation Forest
+Time-series anomaly detection
+
+Example: Flagging suspicious transactions in bank data that deviate 5x from the normal transaction size.
+
+
+🔹 Lesson 5: Case Study – Healthcare Analytics
+============================================
+Summary:
+Steps:
+------
+Collect patient health records
+Cluster patients with similar risk factors
+Detect anomalies in medical test results
+Present results via an interactive dashboard
+
+Example: A hospital reduced ICU readmission rates by 12% using clustering + anomaly detection.
+
+
